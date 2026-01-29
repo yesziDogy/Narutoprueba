@@ -1,1 +1,3 @@
 # Que son los Genjutsus?
+El Genjutsu (Técnicas Ilusorias) en Naruto es una rama avanzada de jutsus que manipula el chakra para engañar la mente y los sentidos del oponente, creando ilusiones muy realistas que afectan el sistema nervioso central y hacen que la víctima perciba cosas que no son reales, como dolor o entornos falsos, sin causar daño físico directo. Se ejecuta mediante sellos de mano o habilidades visuales (Dōjutsu como el Sharingan) y se contrarresta alterando el flujo de chakra o con un golpe físico para romper la ilusión.
+![Genjutsus](https://static.wikia.nocookie.net/naruto/images/e/ee/Tsukuyomi_Anime.png/revision/latest?cb=20161227210106&path-prefix=es)
